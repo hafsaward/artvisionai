@@ -1,0 +1,7 @@
+{
+  "name": "ArtVision AI Gallery",
+  "description": "An elegant AI-powered art companion that analyzes masterpieces, generates creative palettes, and explores art history.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
